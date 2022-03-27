@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haixiaodai
-- 👀 I’m interested in cloud computing, backend development and data science
+- 👀 I’m interested in cloud computing, AI and algorithms.
 - 🌱 I’m currently learning React
 - 📫 How to reach me haxd@outlook.com.au
 
